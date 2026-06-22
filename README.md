@@ -18,4 +18,7 @@ Should work with any combination of any size screens and any number of screens. 
 Because it gives the illusion that the mouse is going behind the screen instead of dragging on the edge until it goes to the other screen. Which, in my opinion, is a much better way to use the border resistance feature.
 
 ## License
-This project is open-source and available under the **MIT License**—feel free to use, modify, and share it completely for free!
+This project is open-source and available under the **MIT License** feel free to use, modify, and share it completely for free!
+
+## By The Way
+I vibe coded this in two hours. If anything doesn't work, tell me, I don't have 19 monitorn to fully test it.
